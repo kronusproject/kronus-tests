@@ -1,0 +1,1 @@
+SUBSYSTEM=="uio", SYMLINK+="uio/%s{name}", GROUP="uio"
